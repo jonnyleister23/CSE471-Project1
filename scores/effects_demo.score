@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score bpm="120" beatspermeasure="4">
+  <instrument instrument="SubtractiveInstrument">
+    <note measure="1" beat="1" duration="0.9" note="C4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0.8" flange="0" reverb="0" ring="0" />
+    <note measure="1" beat="2" duration="0.9" note="E4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0.8" flange="0" reverb="0" ring="0" />
+    <note measure="1" beat="3" duration="0.9" note="G4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0.8" flange="0" reverb="0" ring="0" />
+    <note measure="1" beat="4" duration="0.9" note="C5" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0.8" flange="0" reverb="0" ring="0" />
+    <note measure="2" beat="1" duration="0.9" note="C4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0.8" reverb="0" ring="0" />
+    <note measure="2" beat="2" duration="0.9" note="E4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0.8" reverb="0" ring="0" />
+    <note measure="2" beat="3" duration="0.9" note="G4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0.8" reverb="0" ring="0" />
+    <note measure="2" beat="4" duration="0.9" note="C5" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0.8" reverb="0" ring="0" />
+    <note measure="3" beat="1" duration="0.9" note="C4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0.8" ring="0" />
+    <note measure="3" beat="2" duration="0.9" note="E4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0.8" ring="0" />
+    <note measure="3" beat="3" duration="0.9" note="G4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0.8" ring="0" />
+    <note measure="3" beat="4" duration="0.9" note="C5" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0.8" ring="0" />
+    <note measure="4" beat="1" duration="0.9" note="C4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0" ring="0.8" />
+    <note measure="4" beat="2" duration="0.9" note="E4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0" ring="0.8" />
+    <note measure="4" beat="3" duration="0.9" note="G4" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0" ring="0.8" />
+    <note measure="4" beat="4" duration="0.9" note="C5" wave="saw" amplitude="0.13" cutoffMin="300" cutoffMax="5000" resonance="2.5" attack="0.01" release="0.10" dry="0.20" chorus="0" flange="0" reverb="0" ring="0.8" />
+    <note measure="5" beat="1" duration="0.85" note="F4" wave="square" amplitude="0.11" cutoffMin="250" cutoffMax="5200" dry="0.35" chorus="0.30" flange="0.25" reverb="0.35" ring="0.2" />
+    <note measure="5" beat="2" duration="0.85" note="A4" wave="square" amplitude="0.11" cutoffMin="250" cutoffMax="5200" dry="0.35" chorus="0.30" flange="0.25" reverb="0.35" ring="0.2" />
+    <note measure="5" beat="3" duration="0.85" note="C5" wave="square" amplitude="0.11" cutoffMin="250" cutoffMax="5200" dry="0.35" chorus="0.30" flange="0.25" reverb="0.35" ring="0.2" />
+    <note measure="5" beat="4" duration="0.85" note="F5" wave="square" amplitude="0.11" cutoffMin="250" cutoffMax="5200" dry="0.35" chorus="0.30" flange="0.25" reverb="0.35" ring="0.2" />
+  </instrument>
+</score>
